@@ -6,7 +6,7 @@ I'm a software|Website developer currently working on my portfolio Website which
 
 I do, like and code C, HTML, CSS, JS, JAVA and PHP programming languages and use tools Netbeans, Visual Studio Code, git version control system.
 
-If you have any project in need of collaboration me from this platform kindly reach me on whatsapp or phone call via this phone number +254115348341 or email me @ patrickalunya106@gmail.com
+If you have any project in need of collaboration direct message me from this platform or reach me on whatsapp or phone call via this phone number +254115348341 or email me @ patrickalunya106@gmail.com
 
 <!--
 **alunyapatrick2022/alunyapatrick2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
