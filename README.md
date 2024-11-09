@@ -18,7 +18,7 @@ I use tools like NetBeans, Visual Studio Code for IDE, and Git for version contr
 If you have any projects in need of collaboration, feel free to reach out!
 
 Connect with me:
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)]([your-linkedin-url](https://www.linkedin.com/in/patrick-alunya2024/)) 
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/patrick-alunya2024/)
 [![X](https://img.icons8.com/ios-filled/50/000000/x.png)](https://x.com/AlunyaPatrick)
 [![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram.png)](https://www.instagram.com/alunya.patrick/)
 [![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook.png)](https://www.facebook.com/profile.php?id=100082867241645)
