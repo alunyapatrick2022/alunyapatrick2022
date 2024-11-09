@@ -1,24 +1,30 @@
 ### Hi there 👋
 
-It's Patrick Alunya here, you can as well call me Patrick but I do like and prefer Patoo.
+I'm **Patrick Alunya**, aka **Patoo**! I'm a Junior FullStack developer currently working working with Next.JS, React and Dart With Flutter for UI/UX Designs and ExpressJS, Python and PHP for Backend Services Development and axios,daraja, google APIs integrations and SQL,PostgraSQL and MYSQL for Database operations and administrations.
 
-I'm a software|Website developer currently working on my portfolio Website which is about to go online soon.
+I enjoy coding in:
+- Dart With Flutter
+- HTML&CSS
+- Python
+- JavaScript
+- SQL
+- PHP
+- Next.JS
+- ReactJS
+- ExpressJS
 
-I do, like and code C, HTML, CSS, JS, JAVA and PHP programming languages and use tools Netbeans, Visual Studio Code, git version control system.
+I use tools like NetBeans, Visual Studio Code for IDE, and Git for version control.
 
-If you have any project in need of collaboration direct message me from this platform or reach me on whatsapp or phone call via this phone number +254115348341 or email me @ patrickalunya106@gmail.com
+If you have any projects in need of collaboration, feel free to reach out!
 
-<!--
-**alunyapatrick2022/alunyapatrick2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with me:
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)]([your-linkedin-url](https://www.linkedin.com/in/patrick-alunya2024/)) 
+[![X](https://img.icons8.com/ios-filled/50/000000/x.png)]([your-twitter-url](https://x.com/AlunyaPatrick)) 
+[![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram.png)](https://www.instagram.com/alunya.patrick/)
+[![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook.png)](https://www.facebook.com/profile.php?id=100082867241645)
+[![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/alunyapatrick2022) 
+[![WhatsApp](https://img.icons8.com/ios-filled/50/000000/whatsapp.png)]([your-whatsapp-url](https://wa.me/254115348341?text=Hello%20Patoo!%20I'm%20interested%20in%20collaborating%20on%20a%20project.)) 
+[![Gmail](https://img.icons8.com/ios-filled/50/000000/gmail.png)](mailto:patrickalunya106@gmail.com)
 
-Here are some ideas to get you started:
+Feel free to reach out via WhatsApp at +254115348341 or email me at patrickalunya106@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
