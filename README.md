@@ -1,19 +1,21 @@
 ### Hi there 👋
 
-I'm **Patrick Alunya**, aka **Patoo**! I'm a Junior FullStack developer currently working working with Next.JS, React and Dart With Flutter for UI/UX Designs and ExpressJS, Python and PHP for Backend Services Development and axios,daraja, google APIs integrations and SQL,PostgraSQL and MYSQL for Database operations and administrations.
+I'm **Patrick Alunya**, aka **Patoo**! I'm a Junior FullStack developer currently working working with Next.JS, React and Dart With Flutter for UI/UX Designs and ExpressJS, Python and PHP for Backend Services Development and RestFul APIS integrations and SQL,PostgraSQL and MYSQL for Database operations and administrations.
 
 I enjoy coding in:
-- Dart With Flutter
 - HTML&CSS
-- Python
 - JavaScript
+- Python
 - SQL
 - PHP
-- Next.JS
-- ReactJS
 - ExpressJS
+- Next.JS
+- React
+- Dart With Flutter
 
 I use tools like NetBeans, Visual Studio Code for IDE, and Git for version control.
+
+I use two main platforms: Windows OS and Linux Operating Systems
 
 If you have any projects in need of collaboration, feel free to reach out!
 
@@ -26,5 +28,5 @@ Connect with me:
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/254115348341text=Hello%20Patoo!%20I'm%20interested%20in%20collaborating%20on%20a%20project.)
 [![Gmail](https://img.icons8.com/color/50/000000/gmail.png)](mailto:patrickalunya106@gmail.com)
 
-Feel free to reach out via WhatsApp at <a href="tel: +254115348341">+254115348341</a> or email me at patrickalunya106@gmail.com.
+Feel free to reach out via WhatsApp at <a href="tel: +254115348341">+254115348341</a> or email me at patrickalunya@outlook.com.
 
