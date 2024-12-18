@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Patrick Alunya**, aka **Patoo**! I'm a Junior FullStack developer currently working working with Next.JS, React and Dart With Flutter for UI/UX Designs and ExpressJS, Python and PHP for Backend Services Development and RestFul APIS integrations and SQL,PostgraSQL and MYSQL for Database operations and administrations.
+I'm **Patrick Alunya**, aka Dev Patrick! I'm a Junior FullStack Web Application developer with a capability to learn to new skills, advanced development skills to Mobile application development. Ready for collaboration on real world projects solving real world problems.
 
 I enjoy coding in:
 - HTML&CSS
